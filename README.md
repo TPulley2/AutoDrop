@@ -2,7 +2,7 @@
 An "Iron Python" program designed to calculate and control a payload drop on a model plane for the SAE Aero Competition.
 This repository's purpose is to display coding capability and versitality.
 
-![UTM Aero Plane 2018](/AutoDrop/Aero Plane Crop.jpg)
+![UTM Aero Plane 2018](/AutoDrop/Aero Plane Crop.JPLG)
 
 
 ## Scope and Purpose
